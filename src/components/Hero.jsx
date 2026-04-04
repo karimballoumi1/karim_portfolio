@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-scroll";
 import { Download, ArrowRight } from "lucide-react";
 import profilePic from "../assets/image/photoprofile.png";
-import cvFile from "../assets/document/Balloumi Karim.pdf";
+import cvFile from "../assets/document/Balloumi Karim cv.pdf";
 
 const Hero = () => {
   return (
